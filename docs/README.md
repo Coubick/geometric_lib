@@ -91,3 +91,4 @@ _output: 24_
 - fe2b3736a90cd0a0fbd7421dfd6e8fd0246fdcab Added new file
 - d078c8d9ee6155f3cb0e577d28d337b791de28e2 L-03: Docs added
 - 8ba9aeb3cea847b63a91ac378a2a6db758682460 L-03: Circle and square added
+- # Добавлены тесты
